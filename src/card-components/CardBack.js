@@ -19,7 +19,7 @@ export default class CardBack extends Component {
 
     }
 
-  }
+  
 
   render() {
     return (
